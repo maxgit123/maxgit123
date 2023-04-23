@@ -13,5 +13,5 @@
 [![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)]()
 
-[HTML5]: https://img.shields.io/badge/HTML5-000000?style=plastic&logo=html5&logoColor=E34F26
+[HTML5]: https://img.shields.io/badge/HTML5-rgba(0,0,0,0)?style=for-the-badge&logo=html5&logoColor=E34F26&color=rgba(0,0,0,0)
 [HTML5-url]: https://developer.mozilla.org/es/docs/Web/HTML
