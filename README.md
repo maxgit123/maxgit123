@@ -14,6 +14,10 @@
 [![Python][Python]][Python-url]
 [![Django][Django]][Django-url]
 
+[![Visitors][Visitors]][Visitors-url]
+
+<!-- URLs -->
+
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/max-abdeneve/
 [Twitter]: https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white
@@ -32,3 +36,5 @@
 [Django]: https://img.shields.io/badge/Django-0c4b33?style=flat&logo=django&logoColor=white
 [Django-url]: https://www.djangoproject.com/092E20
 
+[Visitors]: https://visitor-badge.glitch.me/badge?page_id=maxgit123.maxgit123
+[Visitors-url]: https://github.com/maxgit123
