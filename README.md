@@ -8,7 +8,7 @@
 [![CSS3][CSS3]][CSS3-url]
 [![JS][JS]][JS-url]
 [![React][React]][React-url]
-[![|](https://img.shields.io/badge/%7C-0d1117?style=flat-square)]()
+[![|](https://img.shields.io/badge/%7C-00FFFFFF?style=flat&color=white)]()
 [![Python][Python]][Python-url]
 [![Django][Django]][Django-url]
 
