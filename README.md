@@ -4,12 +4,13 @@
   <summary>Skills...</summary>
 </details>
 
-[![HTML5][HTML5]][HTML5-url] [![CSS3][CSS3]][CSS3-url] [![JS][JS]][JS-url]
-
-[![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)]()
+[![HTML5][HTML5]][HTML5-url]
+[![CSS3][CSS3]][CSS3-url]
+[![JS][JS]][JS-url]
+[![React][React]][React-url]
 [![|](https://img.shields.io/badge/%7C-0d1117?style=flat-square)]()
-[![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)]()
-[![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)]()
+[![Python][Python]][Python-url]
+[![Django][Django]][Django-url]
 
 [HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/es/docs/Web/HTML
@@ -18,5 +19,13 @@
 [CSS3-url]: https://developer.mozilla.org/es/docs/Web/HTML
 
 [JS]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white
-[JS-url]: https://developer.mozilla.org/es/docs/Web/HTML
+[JS-url]: https://developer.mozilla.org/es/docs/Web/JavaScript
 
+[React]: https://img.shields.io/badge/React-149eca?style=flat&logo=react&logoColor=white
+[React-url]: https://es.react.dev/
+
+[Python]: https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+
+[Django]: https://img.shields.io/badge/Django-0c4b33?style=flat&logo=django&logoColor=white
+[Django-url]: https://www.djangoproject.com/092E20
