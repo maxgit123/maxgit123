@@ -1,6 +1,8 @@
-# Hola mi nombre es Max 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=34&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+mi+nombre+es+Max+%F0%9F%91%8B;Bienvenido+a+mi+perfil)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-abdeneve/)
+<details>
+  <summary>Skills...</summary>
+</details>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)]()
@@ -9,3 +11,5 @@
 [![|](https://img.shields.io/badge/%7C-0d1117?style=flat-square)]()
 [![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)]()
+
+
