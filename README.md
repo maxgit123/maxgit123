@@ -1,7 +1,9 @@
 ![hi](https://raw.githubusercontent.com/maxgit123/maxgit123/main/hi.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=34&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+mi+nombre+es+Max+%F0%9F%91%8B;Bienvenido+a+mi+perfil)](https://git.io/typing-svg)
 
-[![LinkedIn][LinkedIn]][LinkedIn-url] [![Twitter][Twitter]][Twitter-url]
+[![LinkedIn][LinkedIn]][LinkedIn-url]
+[![Twitter][Twitter]][Twitter-url]
+[![GMail][GMail]][GMail-url]
 
 <details>
   <summary>Skills...</summary>
@@ -23,6 +25,10 @@
 [LinkedIn-url]: https://www.linkedin.com/in/max-abdeneve/
 [Twitter]: https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white
 [Twitter-url]: https://twitter.com/MaxAbde_
+[GMail]: https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white
+[GMail-url]: mailto:maxabdeneve+gitprof@gmail.com
+
+
 
 [HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/es/docs/Web/HTML
