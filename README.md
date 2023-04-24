@@ -5,8 +5,6 @@
 [![Twitter][Twitter]][Twitter-url]
 [![GMail][GMail]][GMail-url]
 
-<a href="mailto:max@gmail.com?Subject=Interesado%20en%20el%20curso">Contactar por correo</a>
-
 <details>
   <summary>Skills...</summary>
 </details>
